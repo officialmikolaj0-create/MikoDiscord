@@ -1,0 +1,5 @@
+{
+  "name": "GeminiDiscord",
+  "description": "A high-fidelity Discord clone featuring real-time AI-powered chat, multi-channel navigation, and a sleek dark-themed UI built with React and Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
